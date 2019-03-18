@@ -1,4 +1,4 @@
-# zachtech-wspr-beacon-python
+# zachtek-wspr-beacon-python
 python script to configure basic settings in the wspr beacon using linux
 
 This is my first python program, so be gentle.  I know it's probably nasty and ugly, but it is functional.
