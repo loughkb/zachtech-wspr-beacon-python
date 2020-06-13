@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python2
 #my first python3 script from scratch.  I know it's probably simple
 #and could be much neater, but it's a first effort
 #script for programming the ZachTech LP1 WSPR beacon
